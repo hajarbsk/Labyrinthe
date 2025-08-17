@@ -12,13 +12,13 @@ Un jeu de plateforme où le joueur doit éviter des obstacles et atteindre la fi
 ## 🖼️ Captures d’écran
 Voici quelques images du projet :  
 
-### Menu
+### Objectif
 ![Menu du jeu](images/menu.jpg)
 
-### Gameplay
+### Realisation
 ![Gameplay](images/gameplay.png)
 
 ## 🔧 Installation
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/tonpseudo/MonProjetUnity.git
+   git clone [https://github.com/tonpseudo/MonProjetUnity.git](https://github.com/hajarbsk/Labyrinthe.git)
