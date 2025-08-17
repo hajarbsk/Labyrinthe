@@ -13,7 +13,7 @@ Un jeu de plateforme où le joueur doit éviter des obstacles et atteindre la fi
 Voici quelques images du projet :  
 
 ### Menu
-![Menu du jeu](images/menu.png)
+![Menu du jeu](images/menu.jpg)
 
 ### Gameplay
 ![Gameplay](images/gameplay.png)
