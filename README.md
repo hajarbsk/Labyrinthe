@@ -21,4 +21,4 @@ Voici quelques images du projet :
 ## 🔧 Installation
 1. Cloner le projet :
    ```bash
-   git clone [https://github.com/tonpseudo/MonProjetUnity.git](https://github.com/hajarbsk/Labyrinthe.git)
+   git clone https://github.com/hajarbsk/Labyrinthe.git
